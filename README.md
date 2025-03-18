@@ -1,4 +1,4 @@
-**Projects Based Virtual Internship - Big Data Analyticts Kimia Farma**
+**Projects Based Internship - Big Data Analyticts Kimia Farma**
 
 # **Analisis Kinerja Bisnis Kimia Farma Tahun 2020-2023**
 Tugas sebagai seorang Big Data Analytics Intern di Kimia Farma mencakup serangkaian tantangan yang memerlukan pemahaman mendalam tentang data dan kemampuan analisis. Salah satu proyek utama yaitu mengevaluasi kinerja bisnis Kimia Farma dari tahun 2020 hingga 2023.
